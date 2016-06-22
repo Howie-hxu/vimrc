@@ -5,5 +5,5 @@
   
 ## copy the vimrc and tmux.config
   
-  cp vimrc ~/.vimrc
+  cp vimrc ~/.vimrc  
   cp tmux.config ~/.tmux.conf
